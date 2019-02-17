@@ -1,0 +1,24 @@
+{
+  "name": "linenodejs",
+  "version": "1.0.0",
+  "description": "Line Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase-admin": "^7.0.0",
+    "request": "^2.88.0",
+    "save": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/linenodejs"
+  },
+  "devDependencies": {},
+  "author": "Supakrit",
+  "license": "ISC"
+}
